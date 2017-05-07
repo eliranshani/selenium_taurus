@@ -1,4 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 *.idea
 selenium_taurus.iml
-.idea/modules.xml
+/.idea/
