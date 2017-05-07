@@ -1,0 +1,5 @@
+execution:
+- executor: selenium
+  concurrency: 20
+  scenario:
+    script: test_python_taurus.py
